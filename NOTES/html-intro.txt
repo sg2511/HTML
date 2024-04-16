@@ -1,0 +1,110 @@
+what is HTML?
+HTML - Hyper Text Markup Language. HTML is used to  develop the Skeleton/Structure of the Page. HTML uses tags fro developing.
+HTML is started from GML(generalize Markup Language)==> SGML(Standard generalize Markup Language)==>HTML. started in 1992 current version is HTML5.
+download and install vs code.
+
+shortcuts 
+shortcuts used in visual code
+HTML tags will have open or close 
+<tagname> ---- open tag 
+</tagname> ---- close tag
+
+Whole HTMLcode will be between html openand html close tags.
+HTML will have head 
+
+create a sample website HTML code to display Your name.
+
+*******************
+05-March-2024     *
+*******************
+
+Formatting tags are used to format the text.
+there are formmating tags like
+
+b       --> used to make text bold
+strong  --> used to make the text bold but better SEO
+i       --> used to make text italic
+em      --> used to make text italic but better SEO
+u       --> used to make text get underline
+mark    --> used for highlighting text
+del     --> used to show deleted content
+sub     --> used to show something below another thing
+sup     --> used to show something above another thing
+ins     --> used to make text get underline but it means inserted text to SEO
+br      --> break the line
+hr      --> horizontal line 
+pre     --> pre means pre formatted text. pre is used to bring pre formatted data.
+a       --> anchor tag, which creates hyperlink
+
+Color can be changed using color attribute with hex
+
+****************
+06-march-2024  *
+****************
+Lists : lists are use to list of certain items.
+HTML contains 3 types of Lists.
+1. Ordered List: list of items where order is important
+eg: 
+    i.shubh
+    ii.anand
+    iii. kunal
+    iv. yashs
+
+2. Unordered List: List of items where order is not important
+   Skills: 
+    .skills1
+    .skill2
+    .skill3
+
+3. Description List:
+
+List of events or items mentioned with reference
+Eg: A company's Growth
+1995-2000:
+    company established
+2001-2010:
+    company went well
+2011-2023:
+    company got success
+2024: 
+    company bankrupt
+
+
+<ol>
+    <li>xyz</li>
+    <li>123</li>
+    <li>abc</li>
+</ol>
+OutPut: 
+1.xyz
+2.123
+3.abc
+you can also give type attribute in 5 types "1","A","a","I","i". and also
+Tables: 
+    Tables are used to represent data in a simpler format.
+    tables deal with rows(horizontal) and columns(verticles)
+
+    <table> -->for create a table
+    <tr> --> table rows
+     th --> table heading
+     td --> table data
+     <table border="1"> --> create table with border.
+    
+
+<table border="1">          --> create table with border
+        <tr>                --> table rows
+            <th>SNO</th>    --> Table heading
+            <th>DEGREE</th>
+            <th>COLLEGE</th>
+            <th>YEAR</th>
+        </tr>
+        <tr>
+            <td>1</td>      --> Table Data
+            <td>BTech</td>  --> Table Data
+            <td>Model</td>
+            <td>2023</td>
+        </tr>
+</table>                    --> Table close
+
+
+Task 1: increase your Profile Pase with ol,ul and 
