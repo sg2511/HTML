@@ -1,0 +1,15 @@
+HTML
+________________
+
+layout
+headings, paragraph
+a and img
+lists
+tables
+semantic
+block vs inline
+forms
+validation
+media
+
+HTML 5 : 
