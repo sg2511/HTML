@@ -7,4 +7,18 @@ Css can be done in three ways:
     
     ii)Internal CSS : it means writting styles in the HTML files inside style elements
     
-    iii)External CSS : all css files 
+    iii)External CSS : all css files should have an extension .css. We can link them
+    by "link" tag
+    
+
+inline > internal > external
+
+. : is for class name 
+# : is for id 
+
+
+1. create a folder and create index.html and style.css and connect them
+2. generate template code in html and create 5 buttons iside body
+3. use css to mention body-background-black, all buttons background-white, text-black,
+    use classes to generate alternate buttons background-red, use id for last button 
+    background-blue

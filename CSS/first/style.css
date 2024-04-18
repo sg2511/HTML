@@ -4,6 +4,14 @@ body{
 button{
     background-color: gray; color:yellow;
 }
+.btn1{
+    background-color: bisque;
+    color: black;
+}
+#banti{
+    background-color: darkmagenta;
+    color: white;
+}
 h1{
     color:red;
 }
