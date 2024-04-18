@@ -1,0 +1,10 @@
+Cascading Style Sheets started in 1994. recent version is CSS3.
+Css is used to style/design/layout of the web page.
+
+Css can be done in three ways:
+    i)Inline Styling/Inline CSS: it means give CSS properties inside the open tag like attribute
+    "style".
+    
+    ii)Internal CSS : it means writting styles in the HTML files inside style elements
+    
+    iii)External CSS : all css files 
