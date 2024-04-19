@@ -1,5 +1,6 @@
 body{
-    background: url('../Day2_Project/download\ \(3\).jpeg');
+    background: linear-gradient(red,yellow,darkmagenta,aqua
+    );
     background-size: cover;
     background-position-x: center;
     
@@ -13,7 +14,8 @@ h1{
     text-decoration-line: underline;
 }
 label{
-    color: red;
+    color: black;
+    font-weight: 900;
     
 }
 .p1{
