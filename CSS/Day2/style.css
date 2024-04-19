@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap');
+
+body{
+    background-color: aquamarine;
+    color: red;
+    font-size: 30px;
+    /*font-family: "Jacquard 24", system-ui;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: italic;
+    font-style: oblique;
+
+    font-variant: small-caps;*/
+}
+p{
+    text-align: center; 
+    color: black;
+    text-decoration: line;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+/*body{
+    background-color: rgb(184, 130, 49);
+}
+.main{
+   background-color: aquamarine; color: red;
+    height: 50vh;
+    width: 50vw;
+    font-size:  20px;
+}
+.box{
+    background-color: black;
+    height:50%;
+    width: 50%;
+}*/

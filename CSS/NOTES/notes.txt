@@ -1,0 +1,13 @@
+units: units are used to measure 
+we have px,em(enumerated value- take value from parent),rem(root em),vh,vw (viewport height and width)
+
+precentage
+
+fonts: every web site needs a font-family to make their appear.
+
+5 font families: serif, sans-serif, monospace, cursive, fantasy.
+fonts
+
+text:
+background:
+more selectors:
