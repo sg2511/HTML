@@ -1,8 +1,9 @@
 body{
-    background: url(../../HTML/images/WhatsApp\ Image\ 2024-04-03\ at\ 13.51.52_08b68ac3.jpg);
+    background: url('../Day2_Project/download\ \(3\).jpeg');
     background-size: cover;
+    background-position-x: center;
     
-
+    text-align: center;
 
 }
 h1{
@@ -24,6 +25,7 @@ label{
     background-color: darkmagenta;
     color: white;
     width: 30%;
+    text-align: center;
 }
 .btn1{
     background-color: bisque;
